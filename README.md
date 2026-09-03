@@ -1,7 +1,7 @@
 # Schulze Vote
 
 This gem is a Ruby implementation of the Schulze voting method (with help of the Floyd–Warshall algorithm), 
-a type of the Condorcet voting methods. It's the backend algorithm of [Agreeder](https://agreeder.com) and [Airesis](https://airesis.ue). 
+a type of the Condorcet voting methods. It's the backend algorithm of [Agreeder](https://agreeder.com). 
 
 ## Master
 
